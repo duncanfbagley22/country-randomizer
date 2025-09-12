@@ -76,7 +76,7 @@ body {
 }
 
 h1 {
-  font-family: 'MyFont';
+font-family: 'MyFont', 'Papyrus', 'Copperplate', cursive, sans-serif;
   color: #a0522d;
   margin-bottom: 30px;
   font-size: 2rem;
