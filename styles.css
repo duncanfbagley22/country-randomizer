@@ -1,14 +1,14 @@
 /* Base styles for main pages */
 @font-face {
   font-family: 'MyFont';
-  src: url('/SF\ Fedora\ Shadow.ttf') format('truetype');
+  src: url('Shadow.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'MyFont2';
-  src: url('SF\ Fedora\ Titles.ttf') format('truetype');
+  src: url('Titles.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
