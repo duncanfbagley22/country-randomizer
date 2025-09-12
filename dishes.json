@@ -1,0 +1,26 @@
+[
+  {
+    "country": "Turkmenistan",
+    "iso_a3": "TKM",
+    "dish": "Palaw, Manti, and Işlekli",
+    "date": "2022-01-16 12:00:00"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "iso_a3": "TTO",
+    "dish": "Doubles and Mango Chow",
+    "date": "2022-01-24 12:00:00"
+  },
+  {
+    "country": "Fiji",
+    "iso_a3": "FJI",
+    "dish": "Kokoda and Rourou",
+    "date": "2022-01-30 12:00:00"
+  },
+  {
+    "country": "San Marino",
+    "iso_a3": "SMR",
+    "dish": "Piadina & Insalata Di Fagioli",
+    "date": "2025-09-07 12:00:00"
+  }
+]
