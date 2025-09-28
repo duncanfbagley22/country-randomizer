@@ -22,5 +22,11 @@
     "iso_a3": "SMR",
     "dish": "Piadina & Insalata Di Fagioli",
     "date": "2025-09-07 12:00:00"
+  },
+  {
+    "country": "Switzerland",
+    "iso_a3": "CHE",
+    "dish": "Fondue, Rösti, Silserli, and Salatteller",
+    "date": "2025-09-27 12:00:00"
   }
 ]
